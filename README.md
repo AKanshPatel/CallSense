@@ -30,4 +30,4 @@ There’s a need for a **personal intelligent assistant** that can **listen, tra
   - Action items (if any)
 
 ---
-![CallSense System Architecture](assets\CallSense.png)
+![CallSense System Architecture](https://github.com/AKanshPatel/CallSense/blob/6699848b615219321391b5e3fb7279528a7346d5/assets/CallSense.png)
